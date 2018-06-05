@@ -1,0 +1,9 @@
+c:\users\jvald\onedrive\documents\visual studio 2017\Projects\ProyectoCalificaciones\ProyectoCalificaciones\bin\Debug\ProyectoCalificaciones.exe.config
+c:\users\jvald\onedrive\documents\visual studio 2017\Projects\ProyectoCalificaciones\ProyectoCalificaciones\bin\Debug\ProyectoCalificaciones.exe
+c:\users\jvald\onedrive\documents\visual studio 2017\Projects\ProyectoCalificaciones\ProyectoCalificaciones\bin\Debug\ProyectoCalificaciones.pdb
+c:\users\jvald\onedrive\documents\visual studio 2017\Projects\ProyectoCalificaciones\ProyectoCalificaciones\obj\Debug\ProyectoCalificaciones.csprojResolveAssemblyReference.cache
+c:\users\jvald\onedrive\documents\visual studio 2017\Projects\ProyectoCalificaciones\ProyectoCalificaciones\obj\Debug\ProyectoCalificaciones.Form1.resources
+c:\users\jvald\onedrive\documents\visual studio 2017\Projects\ProyectoCalificaciones\ProyectoCalificaciones\obj\Debug\ProyectoCalificaciones.Properties.Resources.resources
+c:\users\jvald\onedrive\documents\visual studio 2017\Projects\ProyectoCalificaciones\ProyectoCalificaciones\obj\Debug\ProyectoCalificaciones.csproj.GenerateResource.Cache
+c:\users\jvald\onedrive\documents\visual studio 2017\Projects\ProyectoCalificaciones\ProyectoCalificaciones\obj\Debug\ProyectoCalificaciones.exe
+c:\users\jvald\onedrive\documents\visual studio 2017\Projects\ProyectoCalificaciones\ProyectoCalificaciones\obj\Debug\ProyectoCalificaciones.pdb
